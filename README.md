@@ -1,1 +1,1 @@
-# FATEC---Laborat-rio-de-Banco-de-dados---WorldCups
+# FATEC---Laboratorio-de-Banco-de-dados---WorldCups
